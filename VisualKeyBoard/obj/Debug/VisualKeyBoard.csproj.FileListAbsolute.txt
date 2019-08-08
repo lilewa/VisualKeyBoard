@@ -1,0 +1,11 @@
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.KeyBoard.resources
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.Properties.Resources.resources
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.csproj.GenerateResource.Cache
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\bin\Debug\VisualKeyBoard.pdb
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.pdb
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\bin\Debug\VisualKeyBoard.exe
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.Form1.resources
+C:\Users\lile\Documents\Visual Studio 2008\Projects\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.exe
+C:\code\重庆物流\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.exe
+C:\code\重庆物流\VisualKeyBoard\VisualKeyBoard\obj\Debug\VisualKeyBoard.pdb
